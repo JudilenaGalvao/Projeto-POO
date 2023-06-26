@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:21:55.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MnqvTRwtqlcPkbAnEiDX" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:29:26.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nqs3qS2yj3ZGAHOS5bJk" version="21.5.0" type="github">
   <diagram name="Página-1" id="Ujh2-OVXo8DI9-x1-dXK">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xgi4914AB_i4iBTOgvoG-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-17" target="xgi4914AB_i4iBTOgvoG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-17" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="384" y="410" width="30" height="30" as="geometry" />
         </mxCell>
@@ -69,6 +72,12 @@
         </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-22" value="sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xgi4914AB_i4iBTOgvoG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xgi4914AB_i4iBTOgvoG-27" value="não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
