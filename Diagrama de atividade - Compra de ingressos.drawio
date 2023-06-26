@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:30:38.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZlXukdMF-oRIrSolX9Ty" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:31:46.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qOC2vzWk1SMscY8gvjW1" version="21.5.0" type="github">
   <diagram name="Página-1" id="Ujh2-OVXo8DI9-x1-dXK">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="xgi4914AB_i4iBTOgvoG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-5" target="xgi4914AB_i4iBTOgvoG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xgi4914AB_i4iBTOgvoG-5" value="Escolher atração" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgi4914AB_i4iBTOgvoG-5" value="Escolher atração" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-6" target="xgi4914AB_i4iBTOgvoG-5">
@@ -35,7 +35,7 @@
         <mxCell id="xgi4914AB_i4iBTOgvoG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=40;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-7" target="xgi4914AB_i4iBTOgvoG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xgi4914AB_i4iBTOgvoG-7" value="Digite o codigo&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;da atração&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgi4914AB_i4iBTOgvoG-7" value="Digite o codigo&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;da atração&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-10" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Código&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;invalido?&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
         <mxCell id="xgi4914AB_i4iBTOgvoG-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-13" target="xgi4914AB_i4iBTOgvoG-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xgi4914AB_i4iBTOgvoG-13" value="Escolher cadeira" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="xgi4914AB_i4iBTOgvoG-13" value="Escolher cadeira" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-15" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="xgi4914AB_i4iBTOgvoG-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="xgi4914AB_i4iBTOgvoG-23" target="xgi4914AB_i4iBTOgvoG-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xgi4914AB_i4iBTOgvoG-23" value="Confirmar compra" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="xgi4914AB_i4iBTOgvoG-23" value="Confirmar compra" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xgi4914AB_i4iBTOgvoG-27" value="não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
