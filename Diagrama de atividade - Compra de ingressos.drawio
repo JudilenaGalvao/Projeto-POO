@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:01:44.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HSeaqLMQyhnUu1GfssLc" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:05:16.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iNeSXqbODmGXze23WVo1" version="21.5.0" type="github">
   <diagram name="Página-1" id="Ujh2-OVXo8DI9-x1-dXK">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,6 +11,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xgi4914AB_i4iBTOgvoG-3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Digite o codigo&lt;br&gt;&amp;nbsp;da atração&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
