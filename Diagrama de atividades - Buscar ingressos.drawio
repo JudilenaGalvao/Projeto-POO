@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T12:59:09.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zyoJRmPALF21lmsHB48X" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T13:00:33.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XmCF3jQfkYa3lKhd-b0o" version="21.5.0" type="github">
   <diagram name="Página-1" id="bDArj52ERqh0-YQayxmk">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="IixeJZIB2zvUlA25pr4z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="IixeJZIB2zvUlA25pr4z-2" target="rnnc0dGFIBG10VOVVDF5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IixeJZIB2zvUlA25pr4z-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IixeJZIB2zvUlA25pr4z-2" value="Visualizar ingressos comprados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
